@@ -10,6 +10,8 @@ Masters of Science in [Electrical and Computer Engineering](https://www.ece.msst
 
 #Experience
 
+![Car of the Future Drift](images/COTF_Drift.jpeg)
+
 Currently, I hold a Graduate Research Position at the <a href="http://www.cavs.msstate.edu/" target="_blank">Center for Advanced Vehcicular Systems</a> at Mississippi State University. My undergraduate research was mostly on the <a href="https://www.msstate.edu/newsroom/article/2016/04/mississippi-state%E2%80%99s-%E2%80%98car-future%E2%80%99-revealed-detroit/" target="_blank">Car of the Future</a> project. Over three years I was also involved with several other projects where I developed several skills including:
 
 
@@ -17,6 +19,8 @@ Currently, I hold a Graduate Research Position at the <a href="http://www.cavs.m
 * Printed Circuit Board Design
 * High Voltage Energy Storage systems
 * 3D Modeling and Printing
+
+![HALO Project Banner](images/HALO_banner.jpg)
 
 My graduate research is focused on CAVS's <a href="http://www.cavs.msstate.edu/story.php?d=727" target="_blank">HALO project</a>. Previously, I was responsible for converting the vehicle into a "drive by wire" platform and electrifying it. Current efforts are directed towards developing this vehicle into an off-road autonomous vehicle.
 

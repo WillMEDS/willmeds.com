@@ -1,7 +1,7 @@
 site_name: 'Will Meadows'
 theme:
     name: 'material' 
-    logo: 'images/logo.png' 
+    logo: 'images/icon.png' 
     favicon: 'images/icon.png' 
     palette:
         primary: 'Light Blue' 
@@ -26,6 +26,7 @@ pages:
     - Projects: 
         - ECE Senior Design: Projects/design.md
         - 3D Printing: Projects/3Dprinting.md
+        - Soldering Workshop: Projects/soldering.md
     - Hobbies: hobbies.md
     - Travels: travel.md
         
