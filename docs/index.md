@@ -10,7 +10,7 @@ Masters of Science in [Electrical and Computer Engineering](https://www.ece.msst
 
 #Experience
 
-![Car of the Future Drift](images/COTF_Drift.jpeg)
+![Car of the Future Drift](images/COTF_drift.jpeg)
 
 Currently, I hold a Graduate Research Position at the <a href="http://www.cavs.msstate.edu/" target="_blank">Center for Advanced Vehcicular Systems</a> at Mississippi State University. My undergraduate research was mostly on the <a href="https://www.msstate.edu/newsroom/article/2016/04/mississippi-state%E2%80%99s-%E2%80%98car-future%E2%80%99-revealed-detroit/" target="_blank">Car of the Future</a> project. Over three years I was also involved with several other projects where I developed several skills including:
 
