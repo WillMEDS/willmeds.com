@@ -1,0 +1,31 @@
+site_name: 'Will Meadows'
+theme:
+    name: 'material' 
+    logo: 'images/logo.png' 
+    favicon: 'images/icon.png' 
+    palette:
+        primary: 'Light Blue' 
+        accent: 'Light Blue' 
+    feature:
+        tabs: ture
+    font:
+        text: 'Josefin Sans'
+extra:
+    social:
+        - type: 'twitter' 
+          link: 'https://twitter.com/wilMEDS'
+        - type: 'linkedin'
+          link: 'https://www.linkedin.com/in/will-meadows-a72324120/'
+        - type: 'github' 
+          link: 'https://github.com/WillMEDS'
+extra_css: 
+    - extra.css
+pages:
+    - Home: index.md
+    - Resume: resume.md
+    - Projects: 
+        - ECE Senior Design: Projects/design.md
+        - 3D Printing: Projects/3Dprinting.md
+    - Hobbies: hobbies.md
+    - Travels: travel.md
+        

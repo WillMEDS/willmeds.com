@@ -1,0 +1,4 @@
+#Printer
+I have a <a href="https://folgertech.com/products/folger-tech-kossel-2020-full-3d-printer-kit" target = "_blank"> Folgertech Kossel</a> kit. Out of anything I've ever purchased, This is probably the biggest impulse buy I've ever made. I instantly fell in love with the delta-type design. Previously I had only been exposed to Cartesian 3D printers, such as the Makerbot Replicator 2X at work. The Kossel printer really appealed to my electrical engineer side, because I imagine the 3 arms of the machine to be a 3 phase sinusoid whenever it traces circles. Yeah, really nerdy impulse buy. I love it!
+
+For most of my projects I used SolidWorks for 3D modeling, <a href="https://www.simplify3d.com/" target="_blank">Simplify 3D</a> as my slicer, and <a href="https://www.repetier.com/" taget = "_blank">Repetier Host</a> to control my printer.

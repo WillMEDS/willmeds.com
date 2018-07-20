@@ -1,0 +1,59 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "More coming soon!\n\n\nEducation\n\n\n\n\nBachelor's of Science in \nElectrical Engineering\n from \nMississippi State University\n - Spring 2018\n\n\nMasters of Science in \nElectrical and Computer Engineering\n from \nMississippi State University\n - In progress, Summer 2019\n\n\nExperience\n\n\nCurrently, I hold a Graduate Research Position at the \nCenter for Advanced Vehcicular Systems\n at Mississippi State University. My undergraduate research was mostly on the \nCar of the Future\n project. Over three years I was also involved with several other projects where I developed several skills including:\n\n\n\n\nAutomotive Harnessing\n\n\nPrinted Circuit Board Design\n\n\nHigh Voltage Energy Storage systems\n\n\n3D Modeling and Printing\n\n\n\n\nMy graduate research is focused on CAVS's \nHALO project\n. Previously, I was responsible for converting the vehicle into a \"drive by wire\" platform and electrifying it. Current efforts are directed towards developing this vehicle into an off-road autonomous vehicle.\n\n\nMy upcoming tasks include:\n\n\n\n\nCompleting the Electrification of the Vehicle\n\n\nMulti-LiDAR Calibration\n\n\nLiDAR + IMU Calibration\n\n\n\n\nInterests\n\n\nNeed to work on this more\n\n\n\n\n3D Modeling and Printing\n\n\nBroadcast Productions\n\n\nHiFi Audio\n\n\nHome-brewing\n\n\nPhotography\n\n\nRacquetball\n\n\nVideo Editing",
+            "title": "Home"
+        },
+        {
+            "location": "/#more-coming-soon",
+            "text": "",
+            "title": "More coming soon!"
+        },
+        {
+            "location": "/#education",
+            "text": "Bachelor's of Science in  Electrical Engineering  from  Mississippi State University  - Spring 2018  Masters of Science in  Electrical and Computer Engineering  from  Mississippi State University  - In progress, Summer 2019",
+            "title": "Education"
+        },
+        {
+            "location": "/#experience",
+            "text": "Currently, I hold a Graduate Research Position at the  Center for Advanced Vehcicular Systems  at Mississippi State University. My undergraduate research was mostly on the  Car of the Future  project. Over three years I was also involved with several other projects where I developed several skills including:   Automotive Harnessing  Printed Circuit Board Design  High Voltage Energy Storage systems  3D Modeling and Printing   My graduate research is focused on CAVS's  HALO project . Previously, I was responsible for converting the vehicle into a \"drive by wire\" platform and electrifying it. Current efforts are directed towards developing this vehicle into an off-road autonomous vehicle.  My upcoming tasks include:   Completing the Electrification of the Vehicle  Multi-LiDAR Calibration  LiDAR + IMU Calibration",
+            "title": "Experience"
+        },
+        {
+            "location": "/#interests",
+            "text": "Need to work on this more   3D Modeling and Printing  Broadcast Productions  HiFi Audio  Home-brewing  Photography  Racquetball  Video Editing",
+            "title": "Interests"
+        },
+        {
+            "location": "/resume/",
+            "text": "You can download my resume here!",
+            "title": "Resume"
+        },
+        {
+            "location": "/Projects/design/",
+            "text": "Official Project website and documentation located here",
+            "title": "ECE Senior Design"
+        },
+        {
+            "location": "/Projects/3Dprinting/",
+            "text": "Printer\n\n\nI have a \n Folgertech Kossel\n kit. Out of anything I've ever purchased, This is probably the biggest impulse buy I've ever made. I instantly fell in love with the delta-type design. Previously I had only been exposed to cartesian 3D printers such as the Makerbot Replicator 2X at work. The Kossel printer really appealed to my electrical engineer side because, watching videos, I imagined the 3 arms of the machine to be a 3 phase sinusoid whenever it was tracing circles. Yeah, really nerdy impulse buy. I love it.\n\n\nFor most of my projects I used SolidWorks for 3D modeling, \nSimplify 3D\n as my slicer, and \nRepetier Host\n to control my printer.",
+            "title": "3D Printing"
+        },
+        {
+            "location": "/Projects/3Dprinting/#printer",
+            "text": "I have a   Folgertech Kossel  kit. Out of anything I've ever purchased, This is probably the biggest impulse buy I've ever made. I instantly fell in love with the delta-type design. Previously I had only been exposed to cartesian 3D printers such as the Makerbot Replicator 2X at work. The Kossel printer really appealed to my electrical engineer side because, watching videos, I imagined the 3 arms of the machine to be a 3 phase sinusoid whenever it was tracing circles. Yeah, really nerdy impulse buy. I love it.  For most of my projects I used SolidWorks for 3D modeling,  Simplify 3D  as my slicer, and  Repetier Host  to control my printer.",
+            "title": "Printer"
+        },
+        {
+            "location": "/hobbies/",
+            "text": "",
+            "title": "Hobbies"
+        },
+        {
+            "location": "/travel/",
+            "text": "",
+            "title": "Travels"
+        }
+    ]
+}
